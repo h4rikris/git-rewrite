@@ -4,3 +4,4 @@ change supposed to be removed - this is fixed 3
 more changes after remove commit
 more changes from feat/two
 some more changes on main - after feat/two branch creation
+more changes from feat/two -2
